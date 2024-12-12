@@ -1,4 +1,4 @@
-This project implements a number-guessing game in assembly language as part of an academic assignment for a Computer Architecture course. The program utilizes basic assembly programming constructs, including calling library functions, handling input/output, and implementing control flows.
+This project implements a number-guessing game in assembly language. The program utilizes basic assembly programming constructs, including calling library functions, handling input/output, and implementing control flows.
 
 Features
 Random Number Generation:
